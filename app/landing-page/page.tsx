@@ -312,13 +312,16 @@
                       <h3 className="text-lg font-semibold text-white mb-4">
                         Contact
                       </h3>
-                      <p className="text-gray-400">📞 682 76 96 28</p>
-                      <a href="mailto:migueldjala090@gmail.com">
-                        <p className="text-gray-400">
-                          migueldjala090@gmail.com
-                        </p>
-                      </a>
-                      <p className="text-gray-400 mt-2">Douala, Cameroun</p>
+                      <div>
+                        <a href="mailto:migueldjala090@gmail.com">
+                          migueldjala090
+                        </a>
+                      </div>
+                      <div>
+                        <a href="tel:+237682769628">682769628</a>
+
+                        <p className="text-gray-400 mt-2">Douala, Cameroun</p>
+                      </div>
                     </div>
 
                     {/* NEWSLETTER */}
